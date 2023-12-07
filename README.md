@@ -1,4 +1,4 @@
-🌟 Welcome to my GitHub profile! I'm [Your Name], an Economist turned Software Engineer with a creative edge. My journey in economics built a strong analytical base, helping me grasp complex systems and excel in problem-solving. This foundation fueled my technology passion, leading to a second bachelor's in Software Engineering.
+🌟 Welcome to my GitHub profile! I'm Rashed Haider, an Economist turned Software Engineer with a creative edge. My journey in economics built a strong analytical base, helping me grasp complex systems and excel in problem-solving. This foundation fueled my technology passion, leading to a second bachelor's in Software Engineering.
 
 👨‍💻 In software engineering, I blend technical skill with innovative thought. My academic record, featuring high grades in Agile and Advanced Programming, underscores my dedication. I relish challenging coding problems and stay updated with tech trends.
 
