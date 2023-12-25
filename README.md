@@ -6,7 +6,7 @@
 
 🎨 Beyond coding, my interests in graphics, interior design, and video editing enhance my attention to detail and aesthetic sense. This aids in creating user-friendly and visually engaging software interfaces.
 
-🔧 My GitHub features diverse projects, from complex software to creative designs and video edits, showcasing my multifaceted skills. I value collaboration and am always eager to explore new tech and creative opportunities.
+🔧 My GitHub features software engineering proftfolio build during 2021 onwards 
 
 🌍 I aim to merge economic insights with software engineering and artistic creativity to create impactful technology. Committed to lifelong learning, I continuously seek to refine my skills and contribute meaningfully to the tech world.
 
